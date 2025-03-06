@@ -1,0 +1,3 @@
+C:/Users/Afra/CLionProjects/OOP_assingment1_403101615/cmake-build-debug/CMakeFiles/OOP_assingment1_403101615.dir
+C:/Users/Afra/CLionProjects/OOP_assingment1_403101615/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Afra/CLionProjects/OOP_assingment1_403101615/cmake-build-debug/CMakeFiles/rebuild_cache.dir
